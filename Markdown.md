@@ -209,7 +209,78 @@ Vous pouvez aussi remplacer les tirets par des étoiles. Leur nombre importe peu
 Résultat en HTML: 
 
 	<hr />
+	
+	
+7.Les tableaux 	
+===============
+Je vais mettre un compplement sur les tableaux avec Markdown.
+Vous aller voir avec markdown tout est intuitif...
 
+Lorsqu'on doit rediger unrapport en utilisant du markdown, il y a toujours des formulaires ou des tableaux dont nous devons faire. J’utilise normalement l’éditeur Markdown pour écrire de petits livres (des petits ebooks).
+
+Voici deux façons d'écrire des formulaires de démarques en markdown.
+
+7.1. Méthode Minimalisme
+-------------------------
+			Name  |price|Nbr  
+			-|-|-
+			Banana| $1 | 5 |
+			Apple | $1 | 6 |
+			Mango | $1 | 7 |
+
+
+
+Visuellement on verra ceci : 
+
+Name  |price|Nbr  
+-|-|-
+Banana| $1 | 5 |
+Apple | $1 | 6 |
+Mango | $1 | 7 |
+
+7.2. Méthode Simple
+--------------------
+
+			Name | 111 | 222 | 333 | 444
+			   - | :-: | :-: | :-: | -:
+			 aaa | bbb | ccc | ddd | eee| 
+			 fff | ggg | hhh | iii | 000|
+			 
+Visuellement on verra ceci : 
+
+name | 111 | 222 | 333 | 444
+- | :-: | :-: | :-: | -:
+aaa | bbb | ccc | ddd | eee| 
+fff | ggg| hhh | iii | 000|
+
+7.3. Méthode Native
+--------------------
+				name | 111 | 222 | 333 | 444
+				:-: | :-: | :-: | :-: | :-:
+				aaa | bbb | ccc | ddd | eee | 
+				fff | ggg | hhh | iii | 000 |
+				
+Visuellement on verra ceci : 
+
+name | 111 | 222 | 333 | 444
+:-: | :-: | :-: | :-: | :-:
+aaa | bbb | ccc | ddd | eee| 
+fff | ggg | hhh | iii | 000|
+
+7.4. La différence entre differentes méthodes
+----------------------------------------------
+Bien que la méthode simple soit légèrement plus simple, les première et dernière colonnes ne sont pas centrées car il n'y a pas de format avant et après, ce qui est assez fastidieux pour la méthode minimaliste. Les méthodes minimalistes sont simples, mais elles sont toutes alignées à gauche. Le format natif est plus beau.
+
+Opinion personnelle : Les patients atteints de TOC doivent utiliser la méthode native, d’autres, n’hésitez pas à utiliser ce qui vous plait.
+
+
+7.5. Description de la syntaxe
+-------------------------------
+
+1) Les espaces supplémentaires entre "|" ,"-"  et ":" seront ignorés sans affecter la mise en page.
+2) La barre de titre par défaut est alignée au centre et le contenu est aligné à gauche.
+3)" -: " indique que le contenu et la barre de titre sont alignés à droite, " :- " indique que le contenu et la barre de titre sont alignés à gauche, et " :-: " indique que le contenu et la barre de titre sont alignés au centre.
+4) Les espaces supplémentaires entre le contenu et " | " sont ignorés. Le premier " | " et le dernier " | " de chaque ligne peuvent être omis et il doit y avoir au moins un des " - ".
 
 
 
