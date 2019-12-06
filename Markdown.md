@@ -249,9 +249,9 @@ Mango | $1 | 7 |
 Visuellement on verra ceci : 
 
 name | 111 | 222 | 333 | 444
-- | :-: | :-: | :-: | -:
-aaa | bbb | ccc | ddd | eee| 
-fff | ggg| hhh | iii | 000|
+   - | :-: | :-: | :-: | -:
+ aaa | bbb | ccc | ddd | eee| 
+ fff | ggg | hhh | iii | 000|
 
 7.3. Méthode Native
 --------------------
