@@ -328,11 +328,11 @@ Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/
 
 Les images s'insèrent de la même façon que les liens. Vous devez simplement mettre un point d'exclamation devant les premiers crochets :
 
-![Lumumba](https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg)
+![Lumumba](https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80)
 
 **Markdown :**
 
-	![Patrice Lumumba](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/123836-Patrice-Lumumba.jpg/image1170x530cropped.jpg)
+	![Patrice Lumumba](https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80)
 
 
 Le texte entre crochets est le texte alternatif de l'image (je vous invite à le renseigner à chaque fois pour ceux qui ne peuvent pas voir les images). 
@@ -341,8 +341,7 @@ Le texte entre crochets est le texte alternatif de l'image (je vous invite à le
 **HTML :**
 
 	<p>
-	    Voici une photo que j'ai prise lors de mes dernières vacances à la montagne :<br />
-	    <img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/123836-Patrice-Lumumba.jpg/image1170x530cropped.jpg" alt="Patrice Lumumba" />
+	    <img src="https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80" alt="Patrice Lumumba" />
 	</p>
 
 
