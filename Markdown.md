@@ -8,12 +8,12 @@ Titre de niveau 1
 =================
 Visuel des codes Markdown & HTML : 
 
-Markdown:
+**Markdown :**
 	
 	Titre de niveau 1
 	=================
 	
-Html:
+**HTML :**
 	
 	<h1>Titre de niveau 1</h1>
 
@@ -23,12 +23,12 @@ Ceci est un paragraphe de texte.
 
 Ceci est un autre paragraphe de texte.
 
-Markdown:
+**Markdown :**
 	
 	Ceci est un paragraphe de texte.
 	Ceci est un autre paragraphe de texte.
 	
-Html:
+**HTML :**
 	
 	<p>Ceci est un paragraphe de texte.</p>
 	<p>Ceci est un autre paragraphe de texte.</p>
@@ -37,12 +37,12 @@ Html:
 
 Titre de niveau 2
 -----------------
-Markdown:
+**Markdown :**
 
 	Titre de niveau 2
 	-----------------
 	
-Html : 
+**HTML :** 
 
 	<h2>Titre de niveau 2</h2>
 	
@@ -82,7 +82,7 @@ Html :
 
 #### Titre de niveau 4
 
-**Markdown (h4):**
+**Markdown (h4) :**
 
 	#### Titre de niveau 4
 	
@@ -94,13 +94,21 @@ Html :
 A. Emphase faible (italique)
 ----------------------------
 
-Voici un mot *important* à mon sens
-Voici un mot _important_ à mon sens
+cas-1: Voici un mot *important* à mon sens.
+cas-2: Voici un mot _important_ à mon sens.
 
-Dans les deux cas, la Traduction en HTML : sera le suivant :
+**Markdown :**
+
+	cas-1: Voici un mot *important* à mon sens.
+	cas-2: Voici un mot _important_ à mon sens.
+	
+
+Dans les deux cas, la Traduction en **HTML** sera le suivant :
 
 	<p>Voici un mot <em>important</em> à mon sens</p>
 
+--------
+--------
 
 B. Emphase forte (gras)
 -------------------------
@@ -108,7 +116,13 @@ B. Emphase forte (gras)
 Voici des mots **très importants**, j'insiste !
 Voici des mots __très importants__, j'insiste !
 
-Dans les deux cas, la Traduction en HTML : sera le suivant :
+**Markdown :**
+
+	Voici des mots **très importants**, j'insiste !
+	Voici des mots __très importants__, j'insiste !
+	
+
+Dans les deux cas, la Traduction en **HTML** sera le suivant :
 
 	<p>Voici des mots <strong>très importants</strong>, j'insiste !</p>
 
@@ -119,17 +133,26 @@ Dans les deux cas, la Traduction en HTML : sera le suivant :
 =============
 Créer des listes en Markdown est un vrai bonheur, vous allez voir qu'il n'y a rien de plus simple ! Comme vous le savez sûrement, il existe deux types de listes : les listes à puces et les listes numérotées.
 
-
 1.1.Les listes à puces
 -----------------------
 * Une puce
 * Une autre puce
 * Et encore une autre puce !
 
+**Markdown :**
+
+	* Une puce
+	* Une autre puce
+	* Et encore une autre puce !
+	
+
 Vous pouvez remplacer les étoiles par des tirets ou des signes « + », cela aura exactement le même effet !
 
+	+ Une puce
+	+ Une autre puce
+	+ Et encore une autre puce !
 
-Résultat en HTML :
+**HTML :**
 
 	<ul>
 		<li>Une puce</li>
@@ -138,7 +161,7 @@ Résultat en HTML :
 	</ul>
 
 
-Notez que vous pouvez imbriquer les listes à puces :
+**Notez que vous pouvez imbriquer les listes à puces :**
 
 * Une puce
 * Une autre puce
@@ -147,6 +170,17 @@ Notez que vous pouvez imbriquer les listes à puces :
 * Et encore une autre puce !
 
 * Et encore une autre puce !
+
+**Markdown :**
+
+	* Une puce
+	* Une autre puce
+	    * Une sous-puce
+	    * Une autre sous-puce
+	* Et encore une autre puce !
+
+	* Et encore une autre puce !
+
 
 
 1.2.Les listes à puces numérotées
@@ -157,7 +191,14 @@ Pour créer une liste numérotée, c'est très intuitif : il suffit de commencer
 2. Et de deux
 3. Et de trois
 
-Résultat en HTML :
+**Markdown :**
+
+	1. Et de un
+	2. Et de deux
+	3. Et de trois
+
+
+**HTML :
 
 	<ol>
 		<li>Une puce</li>
@@ -174,8 +215,16 @@ Les citations fonctionnent comme les réponses des e-mails : vous devez précéd
 > à cette citation en écrivant un paragraphe
 > normal juste en-dessous !
 
+**Markdown :**
+
+	> Ceci est un texte cité. Vous pouvez répondre
+	> à cette citation en écrivant un paragraphe
+	> normal juste en-dessous !
+
+
 Résultat en HTML :
-<blockquote><p>Ceci est un texte cité. Vous pouvez répondre à cette citation en écrivant un paragraphe normal juste en-dessous !</p></blockquote>
+
+	<blockquote><p>Ceci est un texte cité. Vous pouvez répondre à cette citation en écrivant un paragraphe normal juste en-dessous !</p></blockquote>
 
 Sachez que vous pouvez imbriquer des citations et du Markdown à l'intérieur des citations !
 
@@ -188,7 +237,16 @@ Sachez que vous pouvez imbriquer des citations et du Markdown à l'intérieur de
 > > * Puce
 > > * Autre puce
 
+**Markdown :**
 
+	> Une citation
+	>
+	> > Une réponse à la citation
+	> >
+	> > Réponse qui contient une liste à puces :
+	> >
+	> > * Puce
+	> > * Autre puce
 
 3.Codes source
 ===============
@@ -203,8 +261,16 @@ Voici un code en C :
         return 0;
     }
 
+**Markdown :**
 
-Résultat en HTML :
+	    int main()
+	    {
+		printf("Hello world!\n");
+		return 0;
+	    }
+
+
+HTML :
 
 	<p>Voici un code en C :</p>
 
