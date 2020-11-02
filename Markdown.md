@@ -328,21 +328,22 @@ Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/
 
 Les images s'insèrent de la même façon que les liens. Vous devez simplement mettre un point d'exclamation devant les premiers crochets :
 
-![Patrice Lumumba](https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg)
+![Lumumba](https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg)
 
 **Markdown :**
 
-	![Patrice Lumumba](https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg)
+	![Patrice Lumumba](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/123836-Patrice-Lumumba.jpg/image1170x530cropped.jpg)
 
 
 Le texte entre crochets est le texte alternatif de l'image (je vous invite à le renseigner à chaque fois pour ceux qui ne peuvent pas voir les images). 
 
-Résultat en HTML:
 
-<p>
-    Voici une photo que j'ai prise lors de mes dernières vacances à la montagne :<br />
-    <img src="https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg" alt="Patrice Lumumba" />
-</p>
+**HTML :**
+
+	<p>
+	    Voici une photo que j'ai prise lors de mes dernières vacances à la montagne :<br />
+	    <img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/123836-Patrice-Lumumba.jpg/image1170x530cropped.jpg" alt="Patrice Lumumba" />
+	</p>
 
 
 6.Barre de séparation
