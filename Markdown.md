@@ -360,8 +360,7 @@ barre de séparation
 
 Vous pouvez aussi remplacer les tirets par des étoiles. Leur nombre importe peu (il faut au moins en mettre quelques-uns !).
 
-barre de séparation
-+++++++++++++++++++
+**********************
 
 **Markddown :**
 
