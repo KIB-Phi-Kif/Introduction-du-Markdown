@@ -9,6 +9,7 @@ Traduction en HTML :
 	Markdown:
 	Titre de niveau 1
 	=================
+	Traduction en HTML:
 	
 	Html:
 	<h1>Titre de niveau 1</h1>
@@ -16,6 +17,14 @@ Traduction en HTML :
 Ceci est un paagraphe de texte.
 
 Ceci est un autre paragraphe de texte.
+
+	Markdown:
+	Ceci est un paragraphe de texte.
+	Ceci est un autre paragraphe de texte.
+	
+	Html:
+	<p>Ceci est un paragraphe de texte.</p>
+	<p>Ceci est un autre paragraphe de texte.</p>
 
 Titre de niveau 2
 -----------------
