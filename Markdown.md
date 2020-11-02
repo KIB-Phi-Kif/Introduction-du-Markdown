@@ -16,7 +16,9 @@ Html:
 	<h1>Titre de niveau 1</h1>
 
 **Exemple sur la notion des paragraphes:**
+
 Ceci est un paragraphe de texte.
+
 Ceci est un autre paragraphe de texte.
 
 Markdown:
