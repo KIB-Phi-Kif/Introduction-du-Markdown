@@ -49,49 +49,43 @@ Html :
 --------
 --------
 
-
 **Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire des titres de niveau 3 (et 4, et plus si affinités) :**
-
-**Markdown (h1):**
-
-	# Titre de niveau 1
-
-**Résultat (h1):**
 
 # Titre de niveau 1
 
+**Markdown (h1) :**
 
-**Markdown (h2):**
+	# Titre de niveau 1
 
-	## Titre de niveau 2
-	
-**Résultat (h2):**
+--------
+--------
 
 ## Titre de niveau 2
 
+**Markdown (h2) :**
 
-**Markdown (h3):**
-
-	### Titre de niveau 3
-
-**Résultat (h3):**
+	## Titre de niveau 2
+	
+--------
+--------
 
 ### Titre de niveau 3
 
+**Markdown (h3) :**
+
+	### Titre de niveau 3
+	
+--------
+--------
+
+### Titre de niveau 4
 
 **Markdown (h4):**
 
 	### Titre de niveau 4
-
-**Résultat (h4):**
-
-### Titre de niveau 4
-
-**
-.
-.
-.
-**
+	
+--------
+--------
 
 A. Emphase faible (italique)
 ----------------------------
