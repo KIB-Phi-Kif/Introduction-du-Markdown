@@ -369,7 +369,7 @@ barre de séparation
 	*******************
 	
 
-Résultat en HTML: 
+**HTML :** 
 
 	<hr/>
 	
@@ -385,6 +385,9 @@ Voici deux façons d'écrire des formulaires de démarques en markdown.
 
 7.1. Méthode Minimalisme
 -------------------------
+
+**Markddown :**
+
 			Name  |price|Nbr  
 			-|-|-
 			Banana| $1 | 5 |
@@ -404,6 +407,8 @@ Mango | $1 | 7 |
 7.2. Méthode Simple
 --------------------
 
+**Markddown :**
+
 			Name | 111 | 222 | 333 | 444
 			   - | :-: | :-: | :-: | -:
 			 aaa | bbb | ccc | ddd | eee| 
@@ -416,8 +421,12 @@ name | 111 | 222 | 333 | 444
 aaa | bbb | ccc | ddd | eee| 
 fff | ggg | hhh | iii | 000|
 
+
 7.3. Méthode Native
 --------------------
+
+**Markddown :**
+
 				name | 111 | 222 | 333 | 444
 				:-: | :-: | :-: | :-: | :-:
 				aaa | bbb | ccc | ddd | eee | 
