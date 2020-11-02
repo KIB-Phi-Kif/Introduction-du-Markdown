@@ -358,16 +358,6 @@ barre de séparation
 	barre de séparation
 	-------------------
 
-Vous pouvez aussi remplacer les tirets par des étoiles. Leur nombre importe peu (il faut au moins en mettre quelques-uns !).
-
-**********************
-
-**Markddown :**
-
-	barre de séparation
-	*******************
-	
-
 **HTML :** 
 
 	<hr/>
