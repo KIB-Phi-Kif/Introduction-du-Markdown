@@ -198,7 +198,7 @@ Pour créer une liste numérotée, c'est très intuitif : il suffit de commencer
 	3. Et de trois
 
 
-**HTML :
+**HTML :**
 
 	<ol>
 		<li>Une puce</li>
@@ -270,7 +270,7 @@ Voici un code en C :
 	    }
 
 
-HTML :
+**HTML :**
 
 	<p>Voici un code en C :</p>
 
@@ -285,11 +285,18 @@ HTML :
 
 Code en ligne
 ---------------
-Si vous voulez écrire un morceau de code au milieu d'un paragraphe, entourez-le d'accents graves comme ceci : \` Exemple :
+Si vous voulez écrire un morceau de code au milieu d'un paragraphe, entourez-le d'accents graves comme ceci : \` 
+
+Exemple :
 
 La fonction `printf()` permet d'afficher du texte
 
-Résultat  en HTML: 
+**Markdown :**
+
+	La fonction `printf()` permet d'afficher du texte
+
+
+**HTML :**
 
 	<p>La fonction <code>printf()</code> permet d'afficher du texte</p>
 
