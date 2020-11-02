@@ -320,7 +320,7 @@ Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/
 
 **HTML :** 
 
-	Rendez-vous sur sur la chaine YouTube <a href="http://www.siteduzero.com">Site du Zéro</a>
+	Rendez-vous sur sur la chaine YouTube <a href="https://www.youtube.com/channel/UC0mLJdx_a8fLqmeDIZhVLeg/videos?view_as=subscriber">TIBOX MUSIC</a>
 
 
 5.Les images
@@ -328,7 +328,7 @@ Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/
 
 Les images s'insèrent de la même façon que les liens. Vous devez simplement mettre un point d'exclamation devant les premiers crochets :
 
-![Flower](https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80)
+![Patrice Lumumba](https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg)
 
 **Markdown :**
 
