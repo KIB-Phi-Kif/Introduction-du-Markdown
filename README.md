@@ -8,3 +8,5 @@ Les créateurs de Markdown trouvaient que ce n'était pas vraiment pratique de d
 Imaginez, vous voulez poster un message sur un forum qui accepte uniquement le HTML et vous voulez écrire une liste à puces. 
 John Gruber et Aaron Swartz ont donc créé un petit langage très simple appelé le Markdown.
 L'idée est de pouvoir mettre en forme du texte sans avoir besoin de recourir à la souris… et sans avoir besoin de taper à la main des balises HTML toutes les 5 secondes.
+
+**Lire le document principal Markdown.md**
