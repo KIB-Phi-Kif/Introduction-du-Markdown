@@ -515,4 +515,4 @@ Et si ce que je veux faire n'est pas possible en Markdown ?
 --------
 --------
 
-Written by [Kibwila Panehsy Kif](https://github.com/KIB-Phi-Kif)     /* 克威拉 */
+Written by [Kibwila Panehsy Kif](https://github.com/KIB-Phi-Kif)
