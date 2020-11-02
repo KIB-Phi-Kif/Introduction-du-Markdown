@@ -95,11 +95,13 @@ A. Emphase faible (italique)
 ----------------------------
 
 cas-1: Voici un mot *important* à mon sens.
+
 cas-2: Voici un mot _important_ à mon sens.
 
 **Markdown :**
 
 	cas-1: Voici un mot *important* à mon sens.
+	
 	cas-2: Voici un mot _important_ à mon sens.
 	
 
@@ -114,11 +116,13 @@ B. Emphase forte (gras)
 -------------------------
 
 Voici des mots **très importants**, j'insiste !
+
 Voici des mots __très importants__, j'insiste !
 
 **Markdown :**
 
 	Voici des mots **très importants**, j'insiste !
+	
 	Voici des mots __très importants__, j'insiste !
 	
 
@@ -222,7 +226,7 @@ Les citations fonctionnent comme les réponses des e-mails : vous devez précéd
 	> normal juste en-dessous !
 
 
-Résultat en HTML :
+**HTML :**
 
 	<blockquote><p>Ceci est un texte cité. Vous pouvez répondre à cette citation en écrivant un paragraphe normal juste en-dessous !</p></blockquote>
 
@@ -307,11 +311,16 @@ La fonction `printf()` permet d'afficher du texte
 
 Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de l'URL entre parenthèses :
 
-Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/UC0mLJdx_a8fLqmeDIZhVLeg/videos?view_as=subscriber)
 
-Résultat  en HTML: 
+**Markdown :**
 
-Rendez-vous sur le `<a href="http://www.siteduzero.com">Site du Zéro</a>` pour tout apprendre à partir de Zéro !
+	Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/UC0mLJdx_a8fLqmeDIZhVLeg/videos?view_as=subscriber) 
+	
+
+**HTML :** 
+
+Rendez-vous sur sur la chaine YouTube `<a href="http://www.siteduzero.com">Site du Zéro</a>`
 
 
 5.Les images
