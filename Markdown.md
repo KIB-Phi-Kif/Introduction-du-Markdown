@@ -487,8 +487,8 @@ Opinion personnelle : Les patients atteints de TOC doivent utiliser la méthode 
 --------
 
 
-> Ressources pour aller plus loin
-=================================
+ -> Ressources pour aller plus loin
+===================================
 
 Vous venez d'avoir une bonne vue d'ensemble du Markdown et vous connaissez maintenant les principales possibilités offertes par ce petit langage étonnant. :) Sachez que nous n'avons pas couvert ici toutes les possibilités. On peut :
 
