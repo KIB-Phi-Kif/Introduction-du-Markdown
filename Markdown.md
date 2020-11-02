@@ -320,7 +320,7 @@ Rendez-vous sur la chaine YouTube [TIBOX MUSIC](https://www.youtube.com/channel/
 
 **HTML :** 
 
-Rendez-vous sur sur la chaine YouTube `<a href="http://www.siteduzero.com">Site du Zéro</a>`
+	Rendez-vous sur sur la chaine YouTube <a href="http://www.siteduzero.com">Site du Zéro</a>
 
 
 5.Les images
@@ -328,7 +328,11 @@ Rendez-vous sur sur la chaine YouTube `<a href="http://www.siteduzero.com">Site 
 
 Les images s'insèrent de la même façon que les liens. Vous devez simplement mettre un point d'exclamation devant les premiers crochets :
 
-![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+![Flower](https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80)
+
+**Markdown :**
+
+	![Flower](https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80)
 
 
 Le texte entre crochets est le texte alternatif de l'image (je vous invite à le renseigner à chaque fois pour ceux qui ne peuvent pas voir les images). 
