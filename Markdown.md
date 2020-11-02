@@ -1,28 +1,27 @@
 je suis un texte ecrit en **Markdown**
 
-
+Je vais essayer de rester simple en mettant le code Markdown avec son équivalent en HTML.
 
 Titre de niveau 1
 =================
-Traduction en HTML : 
+Visuel des codes Markdown & HTML : 
 
-	Markdown:
+Markdown:
 	Titre de niveau 1
 	=================
-	Traduction en HTML:
 	
-	Html:
+Html:
 	<h1>Titre de niveau 1</h1>
 
 Ceci est un paagraphe de texte.
 
 Ceci est un autre paragraphe de texte.
 
-	Markdown:
+Markdown:
 	Ceci est un paragraphe de texte.
 	Ceci est un autre paragraphe de texte.
 	
-	Html:
+Html:
 	<p>Ceci est un paragraphe de texte.</p>
 	<p>Ceci est un autre paragraphe de texte.</p>
 
