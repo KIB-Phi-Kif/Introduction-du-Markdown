@@ -31,25 +31,44 @@ Html:
 	<p>Ceci est un paragraphe de texte.</p>
 	<p>Ceci est un autre paragraphe de texte.</p>
 	
+
 Titre de niveau 2
 -----------------
-Traduction en HTML : 
+Markdown:
+
+	Titre de niveau 2
+	-----------------
+	
+Html : 
 
 	<h2>Titre de niveau 2</h2>
+	
 
-Mon paragraphe.
-Lignejuste en-dessous
+**Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire des titres de niveau 3 (et 4, et plus si affinités) :**
 
+Markdown (h1):
 
+	# Titre de niveau 1
 
-Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire des titres de niveau 3 (et 4, et plus si affinités) :
+**Résultat (h1):
 
 # Titre de niveau 1
 
+Markdown (h2):
+
+	## Titre de niveau 2
+	
+**Résultat (h2):
+
 ## Titre de niveau 2
 
-### Titre de niveau 3
+Markdown (h3):
 
+	### Titre de niveau 3
+
+**Résultat (h3):
+
+### Titre de niveau 3
 
 
 A. Emphase faible (italique)
