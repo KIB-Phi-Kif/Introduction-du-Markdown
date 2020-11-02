@@ -486,8 +486,10 @@ Opinion personnelle : Les patients atteints de TOC doivent utiliser la méthode 
 --------
 --------
 
+
 > Ressources pour aller plus loin
-====================================
+=================================
+
 Vous venez d'avoir une bonne vue d'ensemble du Markdown et vous connaissez maintenant les principales possibilités offertes par ce petit langage étonnant. :) Sachez que nous n'avons pas couvert ici toutes les possibilités. On peut :
 
   * Faire une table des matières de liens (liens par références) en pied de page ;
@@ -497,7 +499,6 @@ Vous venez d'avoir une bonne vue d'ensemble du Markdown et vous connaissez maint
   * Créer des tableaux (uniquement dans certaines implémentations de Markdown) ;
 
   * etc.
-
 
 Vous trouverez toutes les informations concernant le langage sur :
 
@@ -510,4 +511,9 @@ Et si ce que je veux faire n'est pas possible en Markdown ?
 Écrivez simplement du HTML dans ce cas ! En effet, vous pouvez sans problème mixer du Markdown et du HTML quand vous le souhaitez :
 
 	Ce texte comprend du *Markdown* mais aussi du <abbr title="HyperText Markup Language">HTML</abbr> !
+	
+--------
+--------
+
+Written by [Kibwila Panehsy K.](https://github.com/KIB-Phi-Kif)  （ **PhiK 克威拉** ）
 
