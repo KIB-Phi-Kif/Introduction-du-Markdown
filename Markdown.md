@@ -7,10 +7,12 @@ Titre de niveau 1
 Visuel des codes Markdown & HTML : 
 
 Markdown:
+	
 	Titre de niveau 1
 	=================
 	
 Html:
+	
 	<h1>Titre de niveau 1</h1>
 
 Ceci est un paagraphe de texte.
@@ -18,13 +20,15 @@ Ceci est un paagraphe de texte.
 Ceci est un autre paragraphe de texte.
 
 Markdown:
+	
 	Ceci est un paragraphe de texte.
 	Ceci est un autre paragraphe de texte.
 	
 Html:
+	
 	<p>Ceci est un paragraphe de texte.</p>
 	<p>Ceci est un autre paragraphe de texte.</p>
-
+	
 Titre de niveau 2
 -----------------
 Traduction en HTML : 
