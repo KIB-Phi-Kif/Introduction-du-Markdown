@@ -6,6 +6,11 @@ Titre de niveau 1
 =================
 Traduction en HTML : 
 
+	Markdown:
+	Titre de niveau 1
+	=================
+	
+	Html:
 	<h1>Titre de niveau 1</h1>
 
 Ceci est un paagraphe de texte.
