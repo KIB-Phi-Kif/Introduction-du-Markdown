@@ -332,12 +332,17 @@ Les images s'insèrent de la même façon que les liens. Vous devez simplement m
 
 **Markdown :**
 
-	![Flower](https://images.unsplash.com/photo-1588538046504-ca766a93de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80)
+	![Patrice Lumumba](https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg)
 
 
 Le texte entre crochets est le texte alternatif de l'image (je vous invite à le renseigner à chaque fois pour ceux qui ne peuvent pas voir les images). 
 
 Résultat en HTML:
+
+<p>
+    Voici une photo que j'ai prise lors de mes dernières vacances à la montagne :<br />
+    <img src="https://fr.wikipedia.org/wiki/Patrice_Lumumba#/media/Fichier:PatriceLumumba1960.jpg" alt="Patrice Lumumba" />
+</p>
 
 
 6.Barre de séparation
