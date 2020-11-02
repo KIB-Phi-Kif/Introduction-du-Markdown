@@ -48,6 +48,8 @@ Html :
 	
 --------
 --------
+--------
+--------
 
 **Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire des titres de niveau 3 (et 4, et plus si affinités) :**
 
@@ -78,12 +80,14 @@ Html :
 --------
 --------
 
-### Titre de niveau 4
+#### Titre de niveau 4
 
 **Markdown (h4):**
 
-	### Titre de niveau 4
+	#### Titre de niveau 4
 	
+--------
+--------
 --------
 --------
 
