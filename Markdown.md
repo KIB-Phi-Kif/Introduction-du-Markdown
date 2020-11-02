@@ -2,6 +2,8 @@ je suis un texte ecrit en **Markdown**
 
 Je vais essayer de rester simple en mettant le code Markdown avec son équivalent en HTML.
 
+
+
 Titre de niveau 1
 =================
 Visuel des codes Markdown & HTML : 
@@ -32,6 +34,7 @@ Html:
 	<p>Ceci est un autre paragraphe de texte.</p>
 	
 
+
 Titre de niveau 2
 -----------------
 Markdown:
@@ -44,6 +47,11 @@ Html :
 	<h2>Titre de niveau 2</h2>
 	
 
+.
+.
+.
+
+
 **Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire des titres de niveau 3 (et 4, et plus si affinités) :**
 
 Markdown (h1):
@@ -54,6 +62,8 @@ Markdown (h1):
 
 # Titre de niveau 1
 
+
+
 Markdown (h2):
 
 	## Titre de niveau 2
@@ -62,6 +72,8 @@ Markdown (h2):
 
 ## Titre de niveau 2
 
+
+
 Markdown (h3):
 
 	### Titre de niveau 3
@@ -69,6 +81,21 @@ Markdown (h3):
 **Résultat (h3):
 
 ### Titre de niveau 3
+
+
+
+Markdown (h4):
+
+	### Titre de niveau 4
+
+**Résultat (h4):
+
+### Titre de niveau 4
+
+
+.
+.
+.
 
 
 A. Emphase faible (italique)
