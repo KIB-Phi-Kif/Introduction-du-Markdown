@@ -46,10 +46,8 @@ Html :
 
 	<h2>Titre de niveau 2</h2>
 	
-
-.
-.
-.
+--------
+--------
 
 
 **Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire des titres de niveau 3 (et 4, et plus si affinités) :**
