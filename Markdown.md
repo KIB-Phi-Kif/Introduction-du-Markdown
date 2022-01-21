@@ -518,5 +518,13 @@ Ce texte comprend du *Markdown* mais aussi du <abbr title="HyperText Markup Lang
 
 --------
 --------
+--------
+--------
+
+这是一个回顾表，我将它作为学习 __Markdown__ 语言基础知识练习的一部分。
+
+感谢您的关注!
+
+--------
 
 Written by [Kibwila Panehsy Kif](https://github.com/KIB-Phi-Kif)
