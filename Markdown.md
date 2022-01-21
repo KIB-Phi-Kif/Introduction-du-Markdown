@@ -480,7 +480,7 @@ Opinion personnelle : Les patients atteints de TOC doivent utiliser la méthode 
 
 1) Les espaces supplémentaires entre "|" ,"-"  et ":" seront ignorés sans affecter la mise en page.
 2) La barre de titre par défaut est alignée au centre et le contenu est aligné à gauche.
-3)" -: " indique que le contenu et la barre de titre sont alignés à droite, " :- " indique que le contenu et la barre de titre sont alignés à gauche, et " :-: " indique que le contenu et la barre de titre sont alignés au centre.
+3) " -: " indique que le contenu et la barre de titre sont alignés à droite, " :- " indique que le contenu et la barre de titre sont alignés à gauche, et " :-: " indique que le contenu et la barre de titre sont alignés au centre.
 4) Les espaces supplémentaires entre le contenu et " | " sont ignorés. Le premier " | " et le dernier " | " de chaque ligne peuvent être omis et il doit y avoir au moins un des " - ".
 
 --------
