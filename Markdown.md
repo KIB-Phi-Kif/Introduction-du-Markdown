@@ -409,9 +409,9 @@ Voici deux façons d'écrire des formulaires de démarques en markdown.
 
 			Name  |price|Nbr  
 			-|-|-
-			Banana| $1 | 5 |
-			Apple | $1 | 6 |
-			Mango | $1 | 7 |
+			Banana| $1 | 5
+			Apple | $1 | 6
+			Mango | $1 | 7
 
 
 
@@ -419,9 +419,9 @@ Visuellement on verra ceci :
 
 Name  |price|Nbr  
 -|-|-
-Banana| $1 | 5 |
-Apple | $1 | 6 |
-Mango | $1 | 7 |
+Banana| $1 | 5
+Apple | $1 | 6
+Mango | $1 | 7
 
 --------
 --------
@@ -433,15 +433,15 @@ Mango | $1 | 7 |
 
 			Name | 111 | 222 | 333 | 444
 			   - | :-: | :-: | :-: | -:
-			 aaa | bbb | ccc | ddd | eee| 
-			 fff | ggg | hhh | iii | 000|
+			 aaa | bbb | ccc | ddd | eee
+			 fff | ggg | hhh | iii | 000
 			 
 Visuellement on verra ceci : 
 
 name | 111 | 222 | 333 | 444
 -| :-: | :-: | :-: | -:
-aaa | bbb | ccc | ddd | eee| 
-fff | ggg | hhh | iii | 000|
+aaa | bbb | ccc | ddd | eee
+fff | ggg | hhh | iii | 000
 
 --------
 --------
