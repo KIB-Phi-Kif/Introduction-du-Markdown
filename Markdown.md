@@ -513,6 +513,7 @@ Et si ce que je veux faire n'est pas possible en Markdown ?
 	Ce texte comprend du *Markdown* mais aussi du <abbr title="HyperText Markup Language">HTML</abbr> !
 	
 Visuellement on verra ceci : 
+
 Ce texte comprend du *Markdown* mais aussi du <abbr title="HyperText Markup Language">HTML</abbr> !
 
 --------
