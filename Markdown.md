@@ -408,7 +408,7 @@ Voici deux façons d'écrire des formulaires de démarques en markdown.
 **Markddown :**
 
 			Name  |price|Nbr  
-			-:|-:|-:
+			-|-|-
 			Banana| $1 | 5
 			Apple | $1 | 6
 			Mango | $1 | 7
@@ -418,7 +418,7 @@ Voici deux façons d'écrire des formulaires de démarques en markdown.
 Visuellement on verra ceci : 
 
 Name  |price|Nbr  
--|-|-
+-:|-:|-:
 Banana| $1 | 5
 Apple | $1 | 6
 Mango | $1 | 7
